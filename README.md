@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @asamuelninou
 - 👀 I’m interested in fitness, adventure, philosophy, cooking, etc.
 - 🌱 I’m currently learning brazilian juijitsu, data science, and japanese.
-- 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me ...
 
 <!---
